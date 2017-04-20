@@ -19,7 +19,6 @@ body {
     color: #FF9602;
     text-align: center;
     font-size: 150px;
-    content: attr(text);
     padding: 10% 0;
     font-family: 'Yellowtail', cursive;
 }
