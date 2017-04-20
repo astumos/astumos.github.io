@@ -7,13 +7,12 @@ body {
 }
 
 .centered {
-    display: table;
+    padding: 5% 0;
 }
 
 .astumos {
     color: #FF9602;
     text-align: center;
-    display: table-cell;
-    vertical-align: middle;
+    padding: 10% 0;
     font-family: 'Yellowtail', cursive;
 }
