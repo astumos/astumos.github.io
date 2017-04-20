@@ -11,6 +11,11 @@ body {
 }
 
 .astumos {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
     color: #FF9602;
     text-align: center;
     font-size: 150px;
