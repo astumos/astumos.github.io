@@ -14,11 +14,7 @@ body {
     color: #FF9602;
     text-align: center;
     font-size: 150px;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
+    content: attr(data-text);
     padding: 10% 0;
     font-family: 'Yellowtail', cursive;
 }
