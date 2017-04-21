@@ -31,13 +31,15 @@ body {
 
 .links a {
     text-decoration: none;
+    color: white;
+    padding: 16px;
 }
 
 .links {
     background: #FF9602;
     color: white;
     text-align: center;
-    font-size: 150px;
+    font-size: 125px;
     padding: 10% 0;
     font-family: 'Yellowtail', cursive;
 }
