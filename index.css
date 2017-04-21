@@ -23,3 +23,17 @@ body {
     padding: 10% 0;
     font-family: 'Yellowtail', cursive;
 }
+
+.second {
+    padding: 5% 0;
+    height: 100vh;
+}
+
+.links {
+    background: #FF9602;
+    color: white;
+    text-align: center;
+    font-size: 150px;
+    padding: 10% 0;
+    font-family: 'Yellowtail', cursive;
+}
