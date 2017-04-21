@@ -29,6 +29,10 @@ body {
     height: 100vh;
 }
 
+.links a {
+    text-decoration: none;
+}
+
 .links {
     background: #FF9602;
     color: white;
