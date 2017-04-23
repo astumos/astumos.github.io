@@ -13,16 +13,13 @@ body {
 }
 
 .astumos {
-    user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
-    -o-user-select: none;
-    color: #FF9602;
     text-align: center;
-    font-size: 150px;
     padding: 10% 0;
-    font-family: 'Yellowtail', cursive;
+}
+
+.astumos img {
+    height: 50px;
+    width: 50px;
 }
 
 .second {
