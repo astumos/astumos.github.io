@@ -36,6 +36,10 @@ body {
     padding: 40px;
 }
 
+.links a:hover {
+    color: #D3D3D3;
+}
+
 .links {
     background: #FF9602;
     color: white;
