@@ -9,9 +9,11 @@ body {
 
 .centered {
     height: 100vh;
+    margin: 0px;
 }
 
 .astumos {
+    margin: 0px;
     text-align: center;
     padding: 10% 0;
 }
